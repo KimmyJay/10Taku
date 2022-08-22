@@ -5,6 +5,7 @@
 프로젝트 일정 : 2022.06.02 ~ 2022.06.14<br>
 
 깃헙 링크 : https://github.com/NotEasyTeam/10Taku<br>
+S.A 링크 : https://github.com/NotEasyTeam/10Taku/wiki/S.A<br>
 <br>
 
 ## 1. 프로젝트 주제
@@ -57,7 +58,7 @@ AI가 사용자에게 애니메이션을 추천해주는 프로그램입니다.
 <br>
 
 ## <a href="https://github.com/NotEasyTeam/Animation-Recommendation/wiki">4. Github Wiki</a>
-#### 🔨 <a href="https://docs.google.com/presentation/d/1j6QE8TeJI6S9dn34Lf-_TeOoBDofJvkdfaHV4W7TQeo/edit?usp=sharing">개발 목업</a>
+#### 🔨 <a href="https://github.com/NotEasyTeam/10Taku/wiki/Mockup">개발 목업</a>
 #### 📕 <a href="https://docs.google.com/spreadsheets/d/1U5XLYUx1arjF-M-XEOD9d2E0mnQH_5hT8s7q26umw2g/edit?usp=sharing">API 설계</a>
 <br><br>
 
